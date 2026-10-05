@@ -1,0 +1,4 @@
+51392f238db9d5f27e03bcc04203eb72 *DEVICE_aucode_adec_r2.bin
+2a279c8b1769e9bceb287aa139a0ba99 *DEVICE_aucode_adec_r2_MS12V22.bin
+42c1cb7991e88c8a97bf926bfb47884e *DEVICE_aucode_asnd_r2.bin
+b2a7e2465ef01ff8a4b87b8d21794e1f *DEVICE_aucode_asnd_r2_MS12V22.bin
